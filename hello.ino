@@ -1,0 +1,2 @@
+serialPrint "Estrela Platinada ELMUNDO
+"
