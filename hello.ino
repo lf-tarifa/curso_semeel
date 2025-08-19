@@ -1,2 +1,2 @@
-serialPrint "Estrela Platinada ELMUNDO
+serialPrint "Estrela Platinada ELMUNDO"
 "
